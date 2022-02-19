@@ -1,0 +1,1 @@
+let pessoa = {nome: "thayane", idade: 30, altura: 1.80, serieFavorita: 'Supernatural'};
